@@ -60,7 +60,7 @@ content:
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: www.github.com/shinsangmin1210
+            url: https://github.com/shinsangmin1210
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
