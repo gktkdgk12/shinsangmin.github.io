@@ -5,41 +5,29 @@ favicon: images/favicon.ico
 # Content configuration version
 version: 2
 
-# Personal info
+# 인적사
 name: 신상민
 title: 백앤드 서버 개발자
 email: gktkdgk12@gmail.com
+# email_title: Email (Email title override)
 website: https://pokecoding.tistory.com/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
+#소셜링크
 github_username:  shinsnagmin
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 # linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/shinsangmin_poto.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  안녕하세요 '몰입 과 해결 하는 것'을 좋아하는 Java & Spring 백앤드 개발자 신상민 입니다.
+  프로젝트를 성공으로 이끌기위해 남들보다 빠르게 <mark>이슈를 식별하고 대응하고 이를 문서화 하는 자세</mark>로 임하고 있습니다.
+  또한 홀로 성장보단 **함께 성장**하는 것을 추구하며 모르는 것이 있다면 공부하여 알고자 합니다.
+  프로젝트를 진행하며 개발단계 로 끝내는 것이 아닌 **실 서비스 운영과 코드를 개선하며 좋은 프로그램을 만들고 싶다.**는 열망이 강하게 자리잡았습니다.
+  때문에 회사 프로젝트에서 사용중인 프로젝트 관리 서비스를 지속적으로 개선하여 배포하고 사용자의 피드백을 받아 더 나은 서비스를 목표로 개발하고 있습니다.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
