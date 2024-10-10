@@ -16,7 +16,7 @@ website: https://pokecoding.tistory.com/
 darkmode: false
 
 #소셜링크
-github_username:  shinsnagmin
+github_username:  shinsnagmin1210
 # linkedin_username: jameswgrant
 
 # About Section
@@ -24,10 +24,15 @@ github_username:  shinsnagmin
 about_profile_image: images/shinsangmin_poto.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요 '몰입 과 해결 하는 것'을 좋아하는 Java & Spring 백앤드 개발자 신상민 입니다.
+  
   프로젝트를 성공으로 이끌기위해 남들보다 빠르게 <mark>이슈를 식별하고 대응하고 이를 문서화 하는 자세</mark>로 임하고 있습니다.
+  
   또한 홀로 성장보단 **함께 성장**하는 것을 추구하며 모르는 것이 있다면 공부하여 알고자 합니다.
+  
   프로젝트를 진행하며 개발단계 로 끝내는 것이 아닌 **실 서비스 운영과 코드를 개선하며 좋은 프로그램을 만들고 싶다.**는 열망이 강하게 자리잡았습니다.
+  
   때문에 회사 프로젝트에서 사용중인 프로젝트 관리 서비스를 지속적으로 개선하여 배포하고 사용자의 피드백을 받아 더 나은 서비스를 목표로 개발하고 있습니다.
+  
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
