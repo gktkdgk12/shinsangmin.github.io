@@ -34,17 +34,13 @@ about_content: | # this will include new lines to allow paragraphs
   때문에 회사 프로젝트에서 사용중인 프로젝트 관리 서비스를 지속적으로 개선하여 배포하고 사용자의 피드백을 받아 더 나은 서비스를 목표로 개발하고 있습니다.
   
 content:
-  - title: Projects # Title for the section
+  - title: Career # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: 아이티아이즈
+        subtitle : Digital Finance 사업부
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: https://github.com/shinsangmin1210
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
