@@ -16,14 +16,13 @@ website: https://pokecoding.tistory.com/
 darkmode: false
 
 #소셜링크
-github_username:  shinsnagmin1210
-# linkedin_username: jameswgrant
+github_username: shinsnagmin1210
 
 # About Section
 # about_title: About Me
 about_profile_image: images/shinsangmin_poto.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요 '몰입 과 해결 하는 것'을 좋아하는 Java & Spring 백앤드 개발자 신상민 입니다.
+  안녕하세요 **몰입 과 해결 하는 것**을 좋아하는 Java & Spring 백앤드 개발자 신상민 입니다.
   
   프로젝트를 성공으로 이끌기위해 남들보다 빠르게 <mark>이슈를 식별하고 대응하고 이를 문서화 하는 자세</mark>로 임하고 있습니다.
   
